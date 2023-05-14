@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+ background-color: rgb(40, 100, 153);   
+}
+header img{
+    width: 100px;
+    height: 90px;
+}
+a{
+    font-size: 40px;
+   color: black;
+    background-color:  orange;
+    text-decoration: none;
+    border-radius:20px ;
+}
+main h1{
+text-align: center;   
+}
+h2{
+    color: red;
+}
